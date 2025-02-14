@@ -1,0 +1,40 @@
+body {
+          margin: 20px;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+      
+      .avatar {
+          width: 150px;
+          border-radius: 60%;
+          box-shadow: 2px 2px 2px 2px rgb(130, 222, 192);
+          
+      }
+      
+      .card{
+          width: 400px;
+          margin: 0 auto;
+          padding: 20px;
+          display: flex;
+          justify-content: space-around;
+          text-align: center;
+          background: #b1cce7;
+          color: #2b2839;
+          border-bottom: 6px solid #d8cefe;
+          
+       
+      }
+      
+      .border-blue {
+          border: 1px dotted blue;
+      }
+     h3:hover{
+          color: rgb(236, 30, 3);
+     } 
+     h4:hover{
+          color: rgb(227, 0, 23);
+     }
+      p:hover{
+          color: rgb(239, 0, 0);
+      }
+      
+      
